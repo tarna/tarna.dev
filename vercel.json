@@ -28,10 +28,6 @@
             "destination": "https://github.com/tarna/:slug*"
         },
         {
-            "source": "/cv",
-            "destination": "https://read.cv/tarna"
-        },
-        {
             "source": "/discord",
             "destination": "https://discord.gg/SScnNymExa"
         },
